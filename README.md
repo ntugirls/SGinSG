@@ -1,5 +1,5 @@
 # SGinSG
-web project
+**web project**
 
 Sehyun Hwang/Frontend
 
