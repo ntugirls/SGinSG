@@ -2,5 +2,5 @@
 web project
 
 Giyoung Hwang
-Sehyun Hwang
+Sehyun Hwang/Frontend
 Jeewon Chae
